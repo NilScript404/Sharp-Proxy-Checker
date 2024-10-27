@@ -23,4 +23,17 @@ you can choose a 2 second timeout and target https://webcode.me/ , then save the
 <br>
 2 - if you are going to write your own checker , please use task factory instead of manual threading , and then use semaphore to limit the amount of running tasks , this makes your code way more readable and you dont even need to write an algorithm
  
+## ⚠️ Disclaimer
+
+
+This software is provided for educational and research purposes only. The author does not endorse or encourage any malicious use of this tool. Users are responsible for ensuring their use of this software complies with all applicable laws, terms of service, and ethical guidelines.
+
+
+- This tool should only be used on systems and accounts you own or have explicit permission to test.
+
+- Unauthorized access to computer systems and accounts is illegal and unethical.
+
+- The author assumes no liability for any misuse or damage caused by this software.
+
+- Use at your own risk.
 
