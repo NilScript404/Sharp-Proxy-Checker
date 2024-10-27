@@ -1,0 +1,14 @@
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\bin\Debug\net8.0\proxy checker.exe
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\bin\Debug\net8.0\proxy checker.deps.json
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\bin\Debug\net8.0\proxy checker.runtimeconfig.json
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\bin\Debug\net8.0\proxy checker.dll
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\bin\Debug\net8.0\proxy checker.pdb
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\obj\Debug\net8.0\proxy checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\obj\Debug\net8.0\proxy checker.AssemblyInfoInputs.cache
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\obj\Debug\net8.0\proxy checker.AssemblyInfo.cs
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\obj\Debug\net8.0\proxy checker.csproj.CoreCompileInputs.cache
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\obj\Debug\net8.0\proxy checker.dll
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\obj\Debug\net8.0\refint\proxy checker.dll
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\obj\Debug\net8.0\proxy checker.pdb
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\obj\Debug\net8.0\proxy checker.genruntimeconfig.cache
+C:\Users\hamid\Desktop\Proxy-Checker-0.1.0\obj\Debug\net8.0\ref\proxy checker.dll
